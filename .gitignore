@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Large files/models (adjust if needed)
+*.pt
+*.pth
+*.onnx
